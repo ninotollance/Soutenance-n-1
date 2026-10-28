@@ -1,0 +1,7 @@
+COMMANDE : 1
+Les Miserables de Victor Hugo                1  8,50
+La Peste de Albert Camus                     2  8,50
+Pantalon bleu taille 44 homme                3 12,00
+=============================== 
+SOMME : 61,50 euros 
+
